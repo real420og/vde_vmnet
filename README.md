@@ -9,6 +9,7 @@
 ## Install
 
 Requires macOS 10.15 or later.
+Requires libtool automake (brew install libtool automake)
 
 ### Step 1: Install vde-2 (`vde_switch`)
 
